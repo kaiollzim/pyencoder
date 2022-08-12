@@ -1,5 +1,7 @@
 # PyEncoder - v1.0
 
+<img src="image.png" alt="imagem">
+
 ### Adjustments and improvements
 
 The project is still being developed and as close as possible in the following tasks:
