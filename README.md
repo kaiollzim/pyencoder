@@ -16,6 +16,7 @@ The project is still being developed and as close as possible in the following t
 Before starting, make sure you've met the following requirements:
 * Have you installed the latest version of `Python3.+`.
 * Do you have a machine `<Windows / Linux / Mac>`.
+* Make sure you have GIT installed on your machine
 
 ## 🚀 Installing
 
